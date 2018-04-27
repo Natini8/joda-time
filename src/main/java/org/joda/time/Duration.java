@@ -42,7 +42,7 @@ public final class Duration
         implements ReadableDuration, Serializable {
 
     /** Constant representing zero millisecond duration */
-    public static final Duration ZERO = new Duration(0L);
+    public static final Duration ZERO = new Duration(0L)
 
     /** Serialization version */
     private static final long serialVersionUID = 2471658376918L;
