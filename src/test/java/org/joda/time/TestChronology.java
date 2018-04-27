@@ -18,7 +18,7 @@ package org.joda.time;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import org.junit.Ignore;
+import junit.Ignore;
 import junit.framework.Test;
 
 import junit.framework.TestCase;
