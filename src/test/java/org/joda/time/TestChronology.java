@@ -118,7 +118,7 @@ public class TestChronology extends TestCase {
     }
 
     //-----------------------------------------------------------------------
-    @Ignore
+    //@Ignore
     @Test
     public void testEqualsHashCode_ISO() {
         Chronology chrono1 = ISOChronology.getInstanceUTC();
