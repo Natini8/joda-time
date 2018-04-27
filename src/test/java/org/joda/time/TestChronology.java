@@ -36,8 +36,6 @@ import org.joda.time.chrono.LimitChronology;
 import org.joda.time.chrono.StrictChronology;
 import org.joda.time.chrono.ZonedChronology;
 
-public @interface Ignore;
-
 /**
  * This class is a Junit unit test for Chronology.
  *
