@@ -18,7 +18,8 @@ package org.joda.time;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import junit;
+import org.junit.Ignore;
+
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
@@ -34,6 +35,8 @@ import org.joda.time.chrono.LenientChronology;
 import org.joda.time.chrono.LimitChronology;
 import org.joda.time.chrono.StrictChronology;
 import org.joda.time.chrono.ZonedChronology;
+
+public @interface Ignore;
 
 /**
  * This class is a Junit unit test for Chronology.
