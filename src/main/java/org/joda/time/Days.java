@@ -48,7 +48,7 @@ public final class Days extends BaseSingleFieldPeriod {
     /** Constant representing two days. */
     public static final Days TWO = new Days(2);
     /** Constant representing three days. */
-    public static final Days THREE = new Days(3);
+    public static final Days THREE = new Days(3)
     /** Constant representing four days. */
     public static final Days FOUR = new Days(4);
     /** Constant representing five days. */
